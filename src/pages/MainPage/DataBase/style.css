@@ -1,0 +1,12 @@
+.top {
+    position: relative;
+    margin: 20px;
+    width: 200px;
+}
+
+.filter {
+    position: absolute;
+    content: '';
+    right: 0;
+    top: 10px;
+}
